@@ -1,0 +1,48 @@
+body{
+    background-color: aqua;
+    margin: 0;
+}
+
+.container{
+    background-color: rgb(245, 203, 227);
+    height: 100vh;
+}
+
+.header{
+    background-color: green;
+    height: 10vh;
+}
+
+.main{
+    background-color: yellow;
+    height: 60vh;
+    display: flex;
+}
+
+.new{
+    background-color: orange;
+    height: 25vh;
+    display: flex;
+    gap: 1px;
+}
+
+.footer{
+    background-color: blue;
+    height: 5vh;
+}
+
+.main-info{
+    background-color: blueviolet;
+    width: 25vw;
+}
+
+.main-data{
+    background-color: brown;
+    width: 75vw;
+}
+
+.new-b1{
+    background-color: yellowgreen;
+    width: 20vw;
+    height: 25vh;
+}
